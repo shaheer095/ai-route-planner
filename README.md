@@ -10,15 +10,13 @@ A web-based visualization tool that demonstrates how modern navigation systems c
   * **A* (A-Star) Search:** Uses heuristics (distance estimations) to guarantee the shortest path much faster than Dijkstra's by prioritizing directions closer to the target.
 
 ## 🛠️ Technical Stack
-* **Frontend:** React.js, HTML5, CSS3 
-* **State Management:** React Hooks
-* **Algorithms Implemented:** Dijkstra, A* Search, Breadth-First Search (BFS)
+* **Language:** Python 3.x
+* **Algorithms Implemented:** Dijkstra's Algorithm, A* (A-Star) Search
 
 ## 🚀 How to Run Locally
-1. Clone this repository: `git clone [Insert Your Repo URL Here]`
-2. Navigate into the directory: `cd route-planner`
-3. Install the required dependencies: `npm install`
-4. Start the development server: `npm start`
-5. The application will be running at `http://localhost:3000`
+1. Clone this repository: `git clone https://github.com/shaheer095/ai-route-planner.git`
+2. Navigate into the directory: `cd ai-route-planner`
+3. Install the required dependencies: `pip install -r requirements.txt`
+4. Run the application: `python app.py`
 
-> *Note: This project is part of my software engineering portfolio, demonstrating algorithmic problem solving and front-end state management.*
+> *Note: This project demonstrates my understanding of advanced data structures, algorithmic problem-solving, and efficient pathfinding optimization in Python.*
